@@ -20,6 +20,15 @@ npm start
 
 ```bash
 http://localhost:3000/
+
+```
+### 使用匯率計算
+
+在瀏覽器網址列輸入以下即可看到畫面
+
+```bash
+http://localhost:3000/exchange?source=USD&target=JPY&amount=$1,525
+
 ```
 
 ## 專案技術
